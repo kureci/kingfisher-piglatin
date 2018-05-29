@@ -4,3 +4,7 @@
 .form-group {
     margin-top: 15px;
 }
+
+textarea.noresize {
+    resize: none;
+}

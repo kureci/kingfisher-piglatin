@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Pig Latin simple app for Kingfisher application",
   "scripts": {
-    "build": "webpack --watch"
+    "build": "webpack"
   },
   "author": "Jahid Zaynal",
   "license": "MIT",
