@@ -5,7 +5,7 @@ export class PigLatin {
     translate(input) {
         input = input.trim()
         if (!input || input.length==0) {
-            return s
+            return input;
         }
         let words = input.toLowerCase().split(" ");
         
